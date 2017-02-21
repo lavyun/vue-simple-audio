@@ -11,13 +11,13 @@ A simple music player component base on Vuejs
 
 ### How to use
 
-1. install with npm
+- install with npm
 
 ```
 npm install --save vue-simple-audio
 ```
 
-2. use it in your component
+- use it in your component
 
 ```html
 <template>
@@ -58,7 +58,7 @@ export default {
 }
 </script>
 ```
-
+### props
   
 | params        |description               | default  |
 | ------------- |:-------------:| -----:|
