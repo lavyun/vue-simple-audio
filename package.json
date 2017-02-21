@@ -1,0 +1,23 @@
+{
+  "name": "vue-simple-audio",
+  "version": "1.0.5",
+  "description": "A simple audio player base on Vuejs",
+  "author": "lavyun@163.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lavyun/vue-simple-audio"
+  },
+  "main": "src",
+  "keywords": [
+    "vue",
+    "audio"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.0.0",
+    "vue-hot-reload-api": "^1.3.2",
+    "vue-html-loader": "^1.2.2",
+    "vue-loader": "^8.2.3",
+    "vue-style-loader": "^1.0.0"
+  }
+}
